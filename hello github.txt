@@ -1,2 +1,1 @@
 hello github
-这是个测试文本
